@@ -297,6 +297,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [rxjs-fruits](https://www.rxjs-fruits.com/subscribe) - Interactive lessons covering a range of operators in RxJS.
 * [angular-debugging-challenge](https://github.com/ppsdang/angular-debugging-challenge) - This repository hosts an Angular-based project designed as a coding and debugging exercise.
 * [angular-api-challenge](https://github.com/ppsdang/angular-api-challenge) - This repository hosts an Angular-based project designed as a api integration exercise.
+* [awesome-maze][https://github.com/AdvancedProductivity/awesome-maze] - This repository implements a maze algorithm generation and solving exercise based on Angular's dependency injection and data binding. You can train a maze algorithm based on this.
 
 ##### Online Training
 
